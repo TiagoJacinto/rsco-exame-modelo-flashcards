@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/<REPO>/',
+  base: '/rsco-exame-modelo-flashcards/',
   plugins: [
     react({
       babel: {
